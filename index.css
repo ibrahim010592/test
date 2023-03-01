@@ -1,0 +1,7 @@
+.title{
+    background-color: brown;
+    color: rgb(250, 229, 72);
+    border-block-start-style: dashed;
+    hyphenate-character: 90 0;
+    
+}
