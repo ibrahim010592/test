@@ -6,4 +6,5 @@ console.log ("New test 3");
 console.log ("A");
 console.log ("B");
 console.log ("C"); 
+console.log ("The end");
 

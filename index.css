@@ -3,5 +3,20 @@
     color: rgb(250, 229, 72);
     border-block-start-style: dashed;
     hyphenate-character: 90 0;
+    text-align: center;
+    font-size: 50px;
     
+
+}
+.comment{
+    color: brown;
+    border-block-start-style: dotted 10 0;
+    padding: 10px 10px;
+    font-size: 40px;
+    font-weight :bold;
+    font-size :10;
+}
+.list{
+    color: black;
+    font-size: 25px;
 }
