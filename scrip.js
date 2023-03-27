@@ -8,3 +8,4 @@ console.log ("B");
 console.log ("C"); 
 console.log ("The end");
 
+console.log ("yes")
